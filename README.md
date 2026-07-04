@@ -1,4 +1,4 @@
-# 3dof-robotic-manipulator-with-inversekinamatics
+# 3DoF-Robotic-Manipulator: Inverse Kinematics solved using analytical methord.
 
 3 dof robotic arm who's end point can be placed in any position in 3d Cartesian space 
 (ie in any x,y,z coordinates) within its workspace using inverse kinematics.
